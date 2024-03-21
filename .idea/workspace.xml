@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d8d817e-bcfe-45db-9b5f-811f4ceb2216" name="Changes" comment="Digit_count">
-      <change afterPath="$PROJECT_DIR$/src/FirstLastLetterComparison.java" afterDir="false" />
+    <list default="true" id="5d8d817e-bcfe-45db-9b5f-811f4ceb2216" name="Changes" comment="CompareNumbers">
+      <change afterPath="$PROJECT_DIR$/src/NumberOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5.2" />
+        <entry key="$PROJECT_DIR$" value="E5.4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,11 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FirstLastLetterComparison.executor": "Run",
     "Application.IntegerChecker.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5.3",
+    "git-widget-placeholder": "E5.6",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java Program/Assignment03/src/Main.java"
   }
@@ -80,13 +82,48 @@
       <option name="project" value="LOCAL" />
       <updated>1710993297609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fist &amp; Last letter comparison">
+      <option name="closed" value="true" />
+      <created>1710993640614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710993640614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fist &amp; Last letter comparison">
+      <option name="closed" value="true" />
+      <created>1710993649391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710993649391</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First &amp; Last letter comparison">
+      <option name="closed" value="true" />
+      <created>1710993714696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710993714696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CompareNumbers">
+      <option name="closed" value="true" />
+      <created>1710994048645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710994048645</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Master Branch" />
     <MESSAGE value="NumberClassifier" />
     <MESSAGE value="Digit_count" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digit_count" />
+    <MESSAGE value="Fist &amp; Last letter comparison" />
+    <MESSAGE value="First &amp; Last letter comparison" />
+    <MESSAGE value="CompareNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="CompareNumbers" />
   </component>
 </project>
